@@ -1,5 +1,8 @@
 .titre3429{
     color: antiquewhite;
-    padding-bottom: 10%;
-    margin-left: 10%;
+    margin-left: 8%;
+}
+
+.titre3429:hover{
+    color: aqua;
 }

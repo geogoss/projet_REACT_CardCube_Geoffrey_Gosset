@@ -1,4 +1,36 @@
 .pSvg1{
     display: flex;
+    justify-content: center;
     align-items: center;
+    margin-left: 3%;
 }
+
+.pSousSvg1{
+    margin-left: 10%;
+    width: 100%;
+    color: rgba(12,246,245,255);
+
+}
+.pSousSvg2{
+    margin-left: 10%;
+    width: 100%;
+    color: rgba(91,111,138,255);
+}
+
+.pBody{
+    color: rgba(91,111,138,255);
+    margin-left: 8%;
+    width: 80%;
+}
+
+.alignement{
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 1px solid rgba(91,111,138,255);
+}
+
+
+

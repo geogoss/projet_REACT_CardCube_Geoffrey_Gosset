@@ -1,0 +1,15 @@
+.span1{
+    color: rgba(91,111,138,255);
+}
+
+.span2{
+    color: antiquewhite;
+    margin-left: 2%;
+}
+.pFooter{
+    width: 100%;
+}
+
+.span2:hover{
+    color: aqua;
+}
