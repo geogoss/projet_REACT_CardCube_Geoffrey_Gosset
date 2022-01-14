@@ -3,3 +3,24 @@
     justify-content: flex-start;
     align-items: center;
 }
+
+
+.divImgBg{
+    background:  url("../images/imgCube.jpg");
+    background-size: cover;
+    width: 90%;
+    height: 15em;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+
+
+
+
+

@@ -1,15 +1,19 @@
 import './Card.css'
-import CardImg from "../CardImg/CardImg";
 import CardTitle from "../CardTitle/CardTitle";
 import CardBody from "../CardBody/CardBody";
 import CardFooterFoto from "../CardFooterFoto/CardFooterFoto";
 import CardFooterSignature from "../CardFooterSignature/CardFooterSignature";
+import LogoBg from '../LogoBg/LogoBg';
+
+
 
 
 function Card() {
     return (
         <div>
-            <CardImg />
+            <div className='divImgBg'>
+                <LogoBg />
+            </div>
             <CardTitle />
             <CardBody />
             <div className="leFooter">
